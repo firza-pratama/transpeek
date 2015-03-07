@@ -16,6 +16,7 @@ In our current (first) development phase, here the informations that you have to
       - SensoDuino            : an Android app that is used to retrieve all the sensors that Android device had. In this case we only use GPS
       - Arduino IDE
 -  How it works - part SensoDuino, Arduino, HC-05 Bluetooth module (more info check refferal):
+      
       1.Implement Arduino Uno and HC-05 Bluetooth module
       2. Connect your Arduino to the laptop
       3. Upload your program to Arduino then open the Serial Monitor on your Arduino IDE
