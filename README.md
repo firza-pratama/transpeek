@@ -7,15 +7,15 @@ Problems that will be solved:
 - save your time in waiting public transportation by giving you advice or notification when will be the correct time
 
 In our current (first) development phase, here the informations that you have to know:
-1.  Hardware that we used:
+-  Hardware that we used:
       - Smartphone - Android  : as GPS locator
       - Arduino Uno           : main board
       - Router - TP-Link      : to send data to the internet
       - HC-05 Bluetooth Module: to communicate between Arduino and smartphone
-2.  Software that we used:
+-  Software that we used:
       - SensoDuino            : an Android app that is used to retrieve all the sensors that Android device had. In this case we only use GPS
       - Arduino IDE
-3.  How it works - part SensoDuino, Arduino, HC-05 Bluetooth module (more info check refferal):
+-  How it works - part SensoDuino, Arduino, HC-05 Bluetooth module (more info check refferal):
       1.Implement Arduino Uno and HC-05 Bluetooth module
       2. Connect your Arduino to the laptop
       3. Upload your program to Arduino then open the Serial Monitor on your Arduino IDE
